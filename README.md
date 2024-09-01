@@ -1,9 +1,9 @@
 # firm-choice-interactive
-Interactive visualization of firm choice of price and produced quantity
+Interactive visualization of price and quantity choice by a firm, using MATLAB&reg; Live Editor
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=giampy1969/firm-choice-interactive)
 
-This is a MATLAB&reg; live editor file that interactively illustrates the price choice of a monopolistic firm, as explained in chapter 7, "The firm and its customers" of the book "The Economy", from The CORE Econ Team, Open access: https://www.core-econ.org/the-economy/v1/book/text/07.html. 
+This is a MATLAB live editor file that interactively illustrates the price choice of a monopolistic firm, as explained in chapter 7, "The firm and its customers" of the book "The Economy", from The CORE Econ Team, Open access: https://www.core-econ.org/the-economy/v1/book/text/07.html. 
 
 The case of a price-taking firm in a competitive market (chapter 8, "Supply and demand: Price-taking and competitive markets" is included as the particular case in which the demand curve is flat (that is price is constant).
 
